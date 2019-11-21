@@ -19,7 +19,7 @@ body {
   vertical-align: top;
 }
 
-#sidebar {
+#aside {
   display:table-cell;
   background:       #efe5d0 url(images/background.gif) bottom right;
   font-size:        105%;
